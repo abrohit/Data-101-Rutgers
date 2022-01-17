@@ -1,6 +1,6 @@
 # 01:198:142 Data 101 Rutgers
 
-Course Grade: TBD
+Course Grade: A
 
 Professor Tomasz Imieliński
 
